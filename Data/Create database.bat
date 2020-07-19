@@ -1,0 +1,1 @@
+sqlcmd -E - S .\SQLExpress - i ShopChoMeo.sql
