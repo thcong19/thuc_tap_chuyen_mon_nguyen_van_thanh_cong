@@ -35,8 +35,8 @@ Giảng viên: Nguyên Lê Minh.
     - Cấp quyền cho nhân viên 
     - Vẽ Biểu đò thu nhập
 * Hướng dẫn sử dụng.
-- cài đặt ứng dụng theo yêu  cầu
-- mở folder data chạy file "Create database.dat" để tạo cơ sở dữ liệu
-- để vào phần mềm với quyền admin chọn: loại tài khoản Admin tên đăng nhập: Admin ("A" Viết hoa) mật khẩu: 123
-- email của em : thcong0210gmail.com
+  - cài đặt ứng dụng theo yêu  cầu
+  - mở folder data chạy file "Create database.dat" để tạo cơ sở dữ liệu
+  - để vào phần mềm với quyền admin chọn: loại tài khoản Admin tên đăng nhập: Admin ("A" Viết hoa) mật khẩu: 123
+  - email của em : thcong0210gmail.com
 ....
