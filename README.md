@@ -30,11 +30,11 @@ Giảng viên: Nguyên Lê Minh.
   -Thanh toán hóa đơn ký gửi(hoàn thành)
   -Thông tin nhân viên thêm sửa xóa, chấm công theo mã nhân viên( hoàn thành)
   -....
-  * Mục tiêu chưa hoàn thành
+ * Mục tiêu chưa hoàn thành
   - Gửi hóa đơn qua mail
   - Cấp quyền cho nhân viên 
   - Vẽ Biểu đò thu nhập
-  ##Hướng dẫn sử dụng.
+*Hướng dẫn sử dụng.
 - cài đặt ứng dụng theo yêu  cầu
 - mở folder data chạy file "Create database.dat" để tạo cơ sở dữ liệu
 - để vào phần mềm với quyền admin chọn: loại tài khoản Admin tên đăng nhập: Admin ("A" Viết hoa) mật khẩu: 123
